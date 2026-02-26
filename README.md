@@ -13,8 +13,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SayaliDongre&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayaliDongre&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# ✍️ Random Dev Quote
-> "It works on my machine." — Every Developer
+# ✍️ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=It%20works%20on%20my%20machine.&author=Every%20Developer)
+
 
 # ⭐ Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SayaliDongre&limit=5&theme=dark&combine_all_yearly_contributions=true)
