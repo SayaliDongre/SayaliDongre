@@ -1,4 +1,4 @@
-# :rocket: Hey there, I'm Sayali!
+# 😎 Hey there, I'm Sayali!
 
 :microscope: I'm currently working on upgrading my AI-ML skills.<br>
 :handshake: I'm looking to collaborate on open source projects.<br>
